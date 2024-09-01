@@ -14,16 +14,56 @@
     ],
     "records": [
       {
-        "id": 1,
-        "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-        "book_name": "Harry Potter and the Philosopher's Stone",
-        "author": "J. K. Rowling",
-        "genre": "fiction",
-        "edition": "2021",
-        "publisher": "Bloomsbury",
-        "cost": 1299,
-        "borrowed": false
-      }
+    "username": "praneeth",
+    "rollnum": "160122749063",
+    "timestamp": "2024-08-31T19:13:10.088Z",
+    "timeLeft": 277,
+    "score": 477,
+    "level": 2,
+    "id": "eb15"
+  },
+  {
+    "username": "anirudh",
+    "rollnum": "160122749054",
+    "timestamp": "2024-08-31T21:00:45.989Z",
+    "timeLeft": 167,
+    "score": 267,
+    "level": 1,
+    "id": "0850"
+  },
+  {
+    "username": "nikhil",
+    "rollnum": "160122749050",
+    "timestamp": "2024-09-01T06:40:25.910Z",
+    "timeLeft": 358,
+    "score": 658,
+    "level": 3,
+    "id": "9334"
+  },
+  {
+    "username": "vinay",
+    "rollnum": "160122749060",
+    "timestamp": "2024-09-01T07:07:23.603Z",
+    "timeLeft": 420,
+    "score": 720,
+    "level": 3,
+    "id": "f891"
+  },
+  {
+    "id": "286c",
+    "username": "vivek",
+    "rollnum": "160122749061",
+    "level": 0
+  },
+  {
+    "username": "Aryan",
+    "rollnum": "160122749062",
+    "timestamp": "2024-09-01T08:40:25.203Z",
+    "timeLeft": 349,
+    "score": 449,
+    "level": 1,
+    "id": "b316"
+  }
     ]
   }
   
